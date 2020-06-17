@@ -4,6 +4,10 @@ body {
 	padding: 5px;
 }
 
+h1 {
+	text-align: center;
+}
+
 .topnav {
 	overflow: hidden;
 	background-color: lightgray;
