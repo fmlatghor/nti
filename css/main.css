@@ -32,9 +32,3 @@ h1 {
 	background-color: #37a5f9;
 	color: white;
 }
-
-src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
-new Crate({
-	server: '469574896754884630',
-	channel: '469574896754884636',
-})
