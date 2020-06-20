@@ -23,6 +23,14 @@ h1 {
 	text-align: center;
 }
 
+.contact {
+	text-align: center;
+	margin: 70px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #37a5f9;
+}
+
 .topnav {
 	overflow: hidden;
 	background-color: lightgray;
@@ -45,12 +53,4 @@ h1 {
 .topnav a.active {
 	background-color: #37a5f9;
 	color: white;
-}
-
-.contact {
-	text-align: center;
-	margin: 70px;
-	border-width: 2px;
-	border-style: solid;
-	border-color: #37a5f9;
 }
