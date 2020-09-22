@@ -5,6 +5,10 @@ body {
 	line-height: 175%;
 }
 
+a {
+	color: #0077A8;
+}
+
 footer {
 	position: fixed;
 	left: 0;
@@ -34,6 +38,10 @@ h1 {
 	border-radius: 25px;
 	border-color: #37a5f9;
 	color: white;
+}
+
+.contact a {
+	color: #3333ff;
 }
 
 .topnav {
@@ -72,14 +80,15 @@ h1 {
                 color: #71A7DE;
         }
 
-        h1 {
-                color: #71A7DE;
-        }
-
-        button {
-                color: white;
-                background-color: #181A1B;
-        }
+	.topnav {
+		-webkit-filter: invert(100%);
+    		filter: invert(100%);
+	}
+	
+	footer {
+		-webkit-filter: invert(100%);
+		filter: invert(100%);
+	}
 }
 
 @media only screen and (max-width: 600px) {
