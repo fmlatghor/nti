@@ -13,6 +13,8 @@ footer {
 	background-color: #37a5f9;
 	color: white;
 	text-align: center;
+	border-top-right-radius: 25px;
+        border-top-left-radius: 25px;
 }
 
 footer a {
@@ -28,12 +30,16 @@ h1 {
 	margin: 70px;
 	border-width: 2px;
 	border-style: solid;
+	background-color: #37a5f9;
+	border-radius: 25px;
 	border-color: #37a5f9;
+	color: white;
 }
 
 .topnav {
 	overflow: hidden;
 	background-color: lightgray;
+	border-radius: 25px;
 }
 
 .topnav a {
@@ -43,6 +49,7 @@ h1 {
 	padding: 14px 16px;
 	font-size: 17px;
 	color: black;
+	border-radius: 25px;
 }
 
 .topnav a:hover {
