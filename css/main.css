@@ -79,16 +79,6 @@ h1 {
         a {
                 color: #71A7DE;
         }
-
-	.topnav {
-		-webkit-filter: invert(100%);
-    		filter: invert(100%);
-	}
-	
-	footer {
-		-webkit-filter: invert(100%);
-		filter: invert(100%);
-	}
 }
 
 @media only screen and (max-width: 600px) {
